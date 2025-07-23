@@ -5,7 +5,7 @@ Bonjour à tous nous vous présentons aujourd'hui cette Base Template V3 qui tou
 # Preview
 
 Vidéo de présentation de la base :
- - 🎥 [Base Preview](Soon)  
+ - 🎥 [Base Preview](https://www.youtube.com/watch?v=nq2vd_OcNHI)  
 
 Vidéo Tutoriel d'Installation de la base en Local Host :
  - 🎥 [Installation de la base en Local Host](Soon)
