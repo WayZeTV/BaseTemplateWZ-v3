@@ -1,0 +1,1 @@
+D:\Bureau\BaseTemplateV3\FXServer.exe +exec server.cfg
