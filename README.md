@@ -8,10 +8,10 @@ Vidéo de présentation de la base :
  - 🎥 [Base Preview](https://www.youtube.com/watch?v=nq2vd_OcNHI)  
 
 Vidéo Tutoriel d'Installation de la base en Local Host :
- - 🎥 [Installation de la base en Local Host](Soon)
+ - 🎥 [Installation de la base en Local Host](https://youtu.be/o3JYiF0uAAU)
 
 Vidéo Tutoriel d'Installation de la base sur Hébergeur :
- - 🎥 [Installation de la base sur un Hébergeur](Soon)
+ - 🎥 [Installation de la base sur un Hébergeur](https://youtu.be/FhKrLjqhy5Q)
  
 # Installation FR 
 
